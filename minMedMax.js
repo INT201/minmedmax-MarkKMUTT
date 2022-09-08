@@ -1,7 +1,7 @@
 const { template } = require('@babel/core')
 
 function minMedMax(num1, num2, num3) {
-    //code hear
+    //code here
     let min = num1
     let med = num2
     let max = num3
